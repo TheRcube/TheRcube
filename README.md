@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheRcube ;
 - 👀 I’m interested in WebDev ;
-- 💡I am fluent in python,html,css(bootstrap framework) ;
-- 🌱 I’m currently learning C ;
+- 💡I am somewhat fluent in python,html,css(bootstrap framework) ;
+
 
 
 <!---
